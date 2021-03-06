@@ -11,7 +11,7 @@ This is a starter repo for the Capstone project in the [Udacity C++ Nanodegree P
 [image3]: ./markdown/game_screen_2.png "screen 2"
 
 ## Game Introduction
-The Capstone Project gives me a chance to integrate what I've learned throughout this program. In this project, I've extend this Snake game, following the principles I have learned throughout this Nanodegree Program. 
+The Capstone Project gives me a chance to integrate what I've learned throughout this program. In this project, I've extended this Snake game, following the principles I have learned throughout this Nanodegree Program. 
 
 ## How to run the game
 
